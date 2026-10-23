@@ -4,7 +4,7 @@ public class Main {
         ColaboradorPadrao c = new ColaboradorPadrao();
 
         c.matricula = 123;
-        c.nome = "Joao da Silva";
+        c.nome = "Rafael Garcia";
         c.salarioBase = 2000;
 
         c.exibirDados();
